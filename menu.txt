@@ -1,0 +1,11 @@
+Pop, $0.50
+Chips, $0.25
+Monster, $1.50
+Ice Cream, $0.50
+Pizza, $1.00
+Fruit Snacks, 2 for $0.25
+Granola Bars, $0.25
+Cheez-Its, $0.50
+Rice Crispy Treats, $0.25
+Trail Mix, $0.75
+Nabisco Snacks, $0.50
