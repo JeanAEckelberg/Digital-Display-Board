@@ -9,11 +9,11 @@ top_offset = 100
 line_offset = 12
 lr_margin = 50
 
-line_color = '#DAA520'
-text_color = '#FFFFFF'
-bg_color = '#006B3C'
+line_color = pygame.Color('#DAA520')
+text_color = pygame.Color('#FFFFFF')
+bg_color = pygame.Color('#174A43')
 
-screen = pygame.display.set_mode(size)
+screen = pygame.display.set_mode(size, pygame.FULLSCREEN)
 clock = pygame.time.Clock()
 
 text_and_cost = utils.util.read_text_to_dict().items()
